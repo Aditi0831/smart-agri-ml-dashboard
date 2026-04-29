@@ -1,0 +1,31 @@
+{
+  "best_model": "Decision Tree",
+  "crop_classes": 22,
+  "fert_classes": 7,
+  "model_results": {
+    "Linear Regression": {
+      "crop_acc": 0.7318, "crop_f1": 0.6840, "fert_acc": 0.3773, "fert_f1": 0.2154, "time": 0.02
+    },
+    "Logistic Regression": {
+      "crop_acc": 0.6568, "crop_f1": 0.6256, "fert_acc": 0.3773, "fert_f1": 0.2260, "time": 0.79
+    },
+    "Polynomial Regression": {
+      "crop_acc": 0.9500, "crop_f1": 0.9499, "fert_acc": 0.4432, "fert_f1": 0.3243, "time": 0.03
+    },
+    "Naive Bayes": {
+      "crop_acc": 0.9545, "crop_f1": 0.9551, "fert_acc": 0.3795, "fert_f1": 0.2859, "time": 0.01
+    },
+    "Cosine Similarity": {
+      "crop_acc": 0.9295, "crop_f1": 0.9293, "fert_acc": 0.4545, "fert_f1": 0.3602, "time": 0.00
+    },
+    "K-Means": {
+      "crop_acc": 0.2500, "crop_f1": 0.2188, "fert_acc": 0.3750, "fert_f1": 0.2404, "time": 2.44
+    },
+    "Decision Tree": {
+      "crop_acc": 0.9955, "crop_f1": 0.9955, "fert_acc": 0.7432, "fert_f1": 0.6933, "time": 20.32
+    },
+    "SVM": {
+      "crop_acc": 0.2750, "crop_f1": 0.1518, "fert_acc": 0.3977, "fert_f1": 0.2217, "time": 22.65
+    }
+  }
+}
