@@ -19,7 +19,7 @@ Instead of relying on high-level libraries like `scikit-learn`, this project imp
 
 ## 🚀 Live Demo
 
-**[Insert your Render URL here, e.g., https://smart-agri-dashboard.onrender.com]**
+**https://smart-agri-ml-dashboard.onrender.com/**
 
 ## 💻 Tech Stack
 
